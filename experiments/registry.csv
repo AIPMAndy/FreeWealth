@@ -1,0 +1,4 @@
+experiment_id,status,model,evidence_grade,hypothesis,audience,comparison,primary_metric,window,budget_limit,success_threshold,stop_rule,actual_result,uncertainty,decision
+E001,planned,reference-frame,C,企业诊断每合格线索贡献高于个人服务,按客户类型分层,现行个人服务与新企业诊断,贡献利润每合格线索,14天,待定,预先登记,超预算或质量不达标,,,
+E002,planned,AI-automation,B,AI可降低同类交付任务总人工时间,同类任务,随机有AI和无AI,总人工时长且质量不下降,7天,待定,预先登记,质量低于门槛,,,
+E003,planned,causal-inference,A,带明确CTA的内容提高合格线索付费,可比内容受众,随机或分层对照,每千有效曝光贡献利润,14天,待定,预先登记,超预算或退款异常,,,

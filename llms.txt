@@ -1,0 +1,43 @@
+# FreeWealth · 科学驱动的个人财富自由
+
+> FreeWealth：科学驱动的个人财富自由研究与实验工具，含 20 个跨学科模型、研究协议、30 天行动方案与离线商业计算器｜Science-driven personal wealth research & experiment toolkit
+
+- 作者：AI酋长Andy（AIPMAndy），官网 https://metaver.vip/
+- 开源仓库：https://github.com/AIPMAndy/FreeWealth
+- 在线地址：https://aipmandy.github.io/FreeWealth/
+- 许可：MIT
+- 语言：中文（zh-CN）
+- 最近更新：2026-11-27
+
+## 这是什么
+
+在线使用https://aipmandy.github.io/FreeWealth/ · 科学模型地图docs/science-map.md · 研究协议docs/research-protocol.md · 30 天行动方案docs/30-day-playbook.md · 实验台账experiments/registry.csv · AI 酋长 Andyhttps://metaver.vip/ · 微信 AIPMAndy
+FreeWealth 是一个研究与实验工具项目，不是投资荐股、收益保证或物理学直接预测财富的系统。我们把成熟数学方法、跨领域模型和科学启发明确分级，以真实付费、贡献利润、投入时间和风险来评估商业假设。
+
+## 主要页面
+
+- [FreeWealth · 财富实验室](https://aipmandy.github.io/FreeWealth/)
+
+## 内容目录
+
+- 立即使用
+- 科学标准
+- 当前范围
+- 测试
+- 项目信息
+
+## 关键事实
+
+- 名称：FreeWealth · 科学驱动的个人财富自由
+- 类型：中文开源项目
+- 许可：MIT
+- 语言：中文
+- 最近更新：2026-11-27
+- 仓库：https://github.com/AIPMAndy/FreeWealth
+
+## 相关链接
+
+- [作者官网](https://metaver.vip/)
+- [GitHub 主页](https://github.com/AIPMAndy/AIPMAndy)
+- [开源总目录](https://aipmandy.github.io/)
+- [机器可读摘要](https://aipmandy.github.io/FreeWealth/llms.txt)

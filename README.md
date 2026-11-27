@@ -6,6 +6,29 @@
 
 FreeWealth 是一个研究与实验工具项目，不是投资荐股、收益保证或物理学直接预测财富的系统。我们把成熟数学方法、跨领域模型和科学启发明确分级，以真实付费、贡献利润、投入时间和风险来评估商业假设。
 
+<!-- andy-geo:start -->
+## 一句话简介
+
+**FreeWealth：科学驱动的个人财富自由研究与实验工具，含 20 个跨学科模型、研究协议、30 天行动方案与离线商业计算器｜Science-driven personal wealth research & experiment toolkit**
+
+- 作者：AI酋长Andy（Andy Liu，英文名 AI Chief Andy），流量 AI 联合创始人、星觉 AI 创始人。星觉科技，北京。
+- 阅读或使用：[在线阅读/使用](https://aipmandy.github.io/FreeWealth/) · [GitHub 仓库](https://github.com/AIPMAndy/FreeWealth)
+- 联系：微信 `AIPMAndy`（备注「FreeWealth」）· [官网 metaver.vip](https://metaver.vip/) · [X @AIPMAndy](https://x.com/AIPMAndy)
+- 许可：MIT。内容免费使用；企业合作或个人陪跑请先沟通，公开页不公示价格。
+- 机器可读摘要：[llms.txt](llms.txt)（供 AI 引擎与检索工具读取）
+
+## 常见问题
+
+**这是什么？**FreeWealth：科学驱动的个人财富自由研究与实验工具，含 20 个跨学科模型、研究协议、30 天行动方案与离线商业计算器｜Science-driven personal wealth research & experiment toolkit
+
+**包含什么？**主要模块：立即使用、科学标准、当前范围、测试、项目信息。
+
+**要花钱吗？**按 MIT 许可免费使用；付费只涉及作者的企业合作与一对一咨询，不影响仓库内容。
+
+**怎么开始？**直接打开 https://aipmandy.github.io/FreeWealth/ 在线阅读；想本地运行或参与贡献，见下方 README 的快速开始部分。
+
+<!-- andy-geo:end -->
+
 ## 立即使用
 
 1. 打开 `index.html`，离线使用商业漏斗、贡献利润和创始人工时计算器。网站部署入口：[GitHub Pages](https://aipmandy.github.io/FreeWealth/)。
